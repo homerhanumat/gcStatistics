@@ -61,6 +61,11 @@ footer {
 	width: 100%;
 }
 
+/* for the main icon, to invite reader to click */
+#EmpRuleIcon:hover {
+   cursor:  pointer;
+}
+
 @media (max-width: 1200px) {
 	#EmpRuleIcon {
 		display: block;
@@ -70,11 +75,6 @@ footer {
 		width: auto; 
 		max-width: 200px; 
 		max-height: 200px;
-	}
-	
-	/* for the main icon, to invite reader to click */
-	#EmpRuleIcon:hover {
-	   cursor:  pointer;
 	}
 }
 
