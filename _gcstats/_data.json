@@ -1,0 +1,14 @@
+{
+	"index": {
+		"pageTitle": "Home"
+	},
+	"slides": {
+		"pageTitle": "Slides"
+	},
+	"more": {
+		"pageTitle": "More"
+	},
+	"practice": {
+		"pageTitle": "Practice"
+	}
+}

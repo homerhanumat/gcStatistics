@@ -1,0 +1,90 @@
+/*!
+ Custom styles for site
+ */
+
+.navbar {
+   background-color: #ff9c00 ! important;
+}
+
+.jumbotron {
+  background: #8b88ff ! important;
+}
+
+.dropdown-header {
+  color:  black ! important;
+}
+
+.btn-primary, .btn-default, .btn-gc {
+  background: #ff9c00;
+  background-image: none;
+  margin-bottom: 1px;
+  border: 2px black;
+  color: black ! important;
+  letter-spacing: 1px;
+  font-weight: 600;
+  text-decoration: none ! important;
+  text-shadow: none;
+  transition: all 0.3s ease-in-out 0s;  
+  -webkit-transition: all 0.3s ease-in-out 0s;  
+}
+
+.btn-gc:hover, .btn-primary:hover, .btn-default:hover {
+  background: black ! important;
+  color: #ff9c00 ! important;
+  border: 2px #ff9c00;
+}
+
+.dropdown-menu {
+	background-color:  #ff9c00;
+}
+
+.dropdown-menu a{
+	font-size: 0.9rem;
+}
+
+.dropdown-header {
+	background-color: #FFFFFF;
+}
+
+
+
+h1.maintitle,
+p.subtitle {
+	text-align: center;
+}
+
+footer {
+	border-top: 5px solid #cccccc;
+}
+
+#EmpRuleIcon {
+	width: 100%;
+}
+
+@media (max-width: 1200px) {
+	#EmpRuleIcon {
+		display: block;
+		margin-left:  auto;
+		margin-right: auto;
+		height: auto; 
+		width: auto; 
+		max-width: 200px; 
+		max-height: 200px;
+	}
+	
+	/* for the main icon, to invite reader to click */
+	#EmpRuleIcon:hover {
+	   cursor:  pointer;
+	}
+}
+
+a.navbar-brand,
+a[href="index.html"]{
+	text-align: left;
+}
+
+.navbar-toggler {
+	cursor:  pointer;
+	font-family: "Lucida Sans Unicode", "Arial Unicode MS";
+	font-size:  1.5rem;
+}

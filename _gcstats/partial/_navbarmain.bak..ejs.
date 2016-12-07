@@ -1,0 +1,132 @@
+
+<div class="navbar navbar-fixed-top navbar-inverse" role="navigation"> 
+      <div class="container">
+	    <a class="navbar-brand btn btn-gc" href="http://www.georgetowncollege.edu">Georgetown</a>
+		<ul class="nav navbar-nav">
+          <li class="nav-item active"><a class="nav-link btn btn-gc" href="index.html">Home</a></li> 
+          <li class="nav-item"><a class="btn btn-gc" href="http://www.georgetowncollege.edu/mpc/faculty/">
+		     About</a></li> 
+          <li class="nav-item"><a class="btn btn-gc" href="http://statistics.rainandrhino.org" 
+		    target="_blank">Blog</a></li> 
+          <li class="nav-item"><a class="btn btn-gc" href="mailto:hwhite0@georgetowncollege.edu">
+		    Contact</a></li>        
+          <li class="nav-item dropdown"><a href="#" class="dropdown-toggle btn btn-gc" data-toggle="dropdown">
+		    R Help<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li class="dropdown-header">Overviews</li>
+                <li><a class="btn btn-gc" 
+				  href="http://homerhanumat.github.io/tigerstats/R_Descriptive.html" target = "_blank">
+				  Descriptive Outline</a></li>
+                <li><a class="btn btn-gc" 
+				  href="http://homerhanumat.github.io/tigerstats/R_Inferential.html" target = "_blank">
+				  Inferential Outline</a></li>
+                <li class="dropdown-header">Graphics</li>
+                <li><a class="btn btn-gc" 
+				  href="http://homerhanumat.github.io/tigerstats/barchartGC.html" target = "_blank">
+				  Bar Charts</a></li>
+                <li><a class="btn btn-gc" 
+				  href="http://homerhanumat.github.io/tigerstats/bwplot.html" target = "_blank">
+				  Box-and-whisker Plots</a></li>
+                <li><a class="btn btn-gc" 
+				  href="http://homerhanumat.github.io/tigerstats/densityplot.html" target = "_blank">
+				  Density Plots</a></li>
+                <li><a class="btn btn-gc" 
+				  href="http://homerhanumat.github.io/tigerstats/histogram.html"
+				  target = "_blank">Histograms</a></li>
+                <li><a class="btn btn-gc" 
+				  href="http://homerhanumat.github.io/tigerstats/xyplot.html" target = "_blank">
+				  Scatter Plots</a></li>
+                                                      
+                <li class="dropdown-header">Numerical Summaries</li>
+                                                      
+                <li><a class="btn btn-gc" 
+				  href="http://homerhanumat.github.io/tigerstats/favstats.html" target = "_blank">
+				  Mosaic's favstats</a></li>
+                <li><a class="btn btn-gc" 
+				  href="http://homerhanumat.github.io/tigerstats/xtabs.html" target = "_blank">
+				  Cross-tables and Percentages</a></li>
+                                                      
+                <li class="dropdown-header">Linear Models</li>
+                                                      
+                <li><a class="btn btn-gc" 
+				  href="http://homerhanumat.github.io/tigerstats/lmGC.html" target = "_blank">
+				  lmGC</a></li>
+                <li><a class="btn btn-gc" 
+				  href="http://homerhanumat.github.io/tigerstats/polyfitGC.html" target = "_blank">
+				  polyfitGC</a></li>
+                <li class="dropdown-header">Probability</li>
+                <li><a class="btn btn-gc" 
+				  href="http://homerhanumat.github.io/tigerstats/pbinomGC.html" target = "_blank">
+				  pbinomGC</a></li>
+                <li><a class="btn btn-gc" 
+				  href="http://homerhanumat.github.io/tigerstats/pnormGC.html" target = "_blank">
+				  pnormGC</a></li>
+                <li><a class="btn btn-gc" 
+				  href="http://homerhanumat.github.io/tigerstats/qnorm.html" target = "_blank">
+				  qnorm</a></li>
+                <li><a class="btn btn-gc" 
+				  href="http://homerhanumat.github.io/tigerstats/qnormGC.html" target = "_blank">
+				  qnormGC</a></li>
+                <li class="dropdown-header">Inferential Procedures</li>
+                <li><a class="btn btn-gc" 
+				  href="http://homerhanumat.github.io/tigerstats/binomtestGC.html" target = "_blank">
+				  binomtestGC</a></li>
+                <li><a class="btn btn-gc" 
+				  href="http://homerhanumat.github.io/tigerstats/proptestGC.html" target = "_blank">
+				  proptestGC</a></li>
+                <li><a class="btn btn-gc" 
+				  href="http://homerhanumat.github.io/tigerstats/chisqtestGC.html" target = "_blank">
+				  The Chi-Square Test</a></li>
+                <li><a class="btn btn-gc" 
+				href="http://homerhanumat.github.io/tigerstats/ttestGC.html" target = "_blank">
+				The t-Test</a></li>
+              </ul>
+			  </li><!-- /.dropdown -->
+			  
+            <li class="nav-item dropdown"><a href="#" class="dropdown-toggle btn btn-gc" 
+			  data-toggle="dropdown">Apps<b class="caret"></b></a>
+              
+			  <ul class="dropdown-menu">
+			  
+                <li class="dropdown-header">Shiny Apps</li>
+                <li><a class="btn btn-gc" 
+				  href="http://homer.shinyapps.io/CoinFlip" target="_blank">
+				  Binomial Investigations</a></li>
+                <li><a class="btn btn-gc" 
+				  href="http://homer.shinyapps.io/RandomExpBinom" target="_blank">
+				  Randomized Experiments (Two-Valued Response)</a></li>
+                <li><a class="btn btn-gc" 
+				  href="http://homer.shinyapps.io/SamplingMethods" target="_blank">
+				  Three Sampling Methods</a></li>
+                <li><a class="btn btn-gc" 
+				  href="http://homer.shinyapps.io/CentralLimit" target="_blank">
+				  The Central Limit Theorem</a></li>
+                <li><a class="btn btn-gc" 
+				  href="http://homer.shinyapps.io/CIMean" target="_blank">
+				  Intervals for One Mean</a></li>                                                     
+                <li><a class="btn btn-gc" 
+				  href="http://homer.shinyapps.io/Type12Errors" target="_blank">
+				  Tests for One Mean</a></li>
+                <li><a class="btn btn-gc" 
+				  href="http://homer.shinyapps.io/ShallowReg" target="_blank">
+				  Regression Line Too Shallow?</a></li>
+                <li><a class="btn btn-gc" 
+				  href="http://homer.shinyapps.io/FindRegLine" target="_blank">
+				  Find the Regression Line!</a></li>
+                <li><a class="btn btn-gc" 
+				  href="http://homer.shinyapps.io/SlowGoodness" target="_blank">
+				  Chi-Square Goodness of Fit</a></li>
+                <li><a class="btn btn-gc" 
+				  href="http://homer.shinyapps.io/SlowAssoc" target="_blank">
+				  Chi-Square for Association</a></li>
+                                                      
+              </ul>
+              </li><!-- / .dropdown -->
+
+              <li class="nav-item"><a class="btn btn-gc" 
+			    href="http://homerhanumat.github.io/elemStats" target = "_blank">
+				Course Notes</a></li>
+            
+            </ul><!--  / .nav navbar-nav -->
+      </div><!-- /.container --> 
+</div><!-- /.navbar  navbar-fixed-top navbar-inverse -->
